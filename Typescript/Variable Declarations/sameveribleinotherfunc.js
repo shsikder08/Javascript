@@ -6,6 +6,6 @@ function f() {
     };
 }
 var g = f();
-console.log(g());
 g(); // returns 11;
+console.log(g());
 //# sourceMappingURL=sameveribleinotherfunc.js.map
